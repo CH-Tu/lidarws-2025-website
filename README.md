@@ -1,6 +1,5 @@
 # LiDAR Winter School 2025 Official Website
-Source code of LiDAR Winter School 2025 official website.  
-[LiDAR Winter School 2025](https://lidarws2025.geomatics.ncku.edu.tw/)
+Source code of [LiDAR Winter School 2025](https://lidarws2025.geomatics.ncku.edu.tw/) official website.
 
 ## New Attempt
 **Open Graph:** Set the preview content of the website on social platforms.  
